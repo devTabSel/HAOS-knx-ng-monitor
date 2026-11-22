@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.14.0.0
+
+- Upstream aktualisiert auf v0.14.0. Release-Notes: https://github.com/ingel81/knx-ng-monitor/releases/tag/v0.14.0
+
+
 ## 0.13.1.0
 
 - Upstream aktualisiert auf v0.13.1. Release-Notes: https://github.com/ingel81/knx-ng-monitor/releases/tag/v0.13.1
